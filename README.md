@@ -2,10 +2,10 @@
 
 This sample is from the video on Youtube [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA) by Mosh Hamedi on Udemy.
 
-- [Jumpstart](https://github.com/dacho68/Angular2-Jumpstart) - Quick understanding of how to build an App with Angular 2.
-- [Part 1](https://github.com/dacho68/Angular2-101) - Property Binding, Class and Style Binding, Event Binding, Two way Binding.
-- Part 2 -  Component API in depth.
-- Part 3
+- Jumpstart - Quick understanding of how to build an App with Angular 2.
+- [101](https://github.com/dacho68/Angular2-101) - Property Binding, Class and Style Binding, Event Binding, Two way Binding.
+- [102](https://github.com/dacho68/Angular2-102) - Component API in depth.
+- 103
 
 ## Setup the environment on Windows for running the samples
 - First install the Node at nodejs.org
