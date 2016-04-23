@@ -1,10 +1,11 @@
 # Angular2-Jumpstart
 
-This sample is from the video on Youtube [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA) by Mosh Hamedi.
+This sample is from the video on Youtube [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA) by Mosh Hamedi on Udemy.
 
-You can learn more details about Angular2 at Angular2-101
- - [Part 1](https://github.com/dacho68/Angular2-101)
- - Part 2
+- [Jumpstart](https://github.com/dacho68/Angular2-Jumpstart) - Quick understanding of how to build an App with Angular 2.
+- [Part 1](https://github.com/dacho68/Angular2-101) - Property Binding, Class and Style Binding, Event Binding, Two way Binding.
+- Part 2 -  Component API in depth.
+- Part 3
 
 ## Setup the environment on Windows for running the samples
 - First install the Node at nodejs.org
