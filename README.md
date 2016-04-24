@@ -9,15 +9,15 @@ if you want to go deeper about Angular 2, I recommend to take the course [Angula
 - 103
 
 ## Setup the environment on Windows for running the samples
-- First install the Node at nodejs.org
-- Install typescript globally. 
+- First instal [NodeJs](https://nodejs.org/en/)
+- Install typescript globally
 
 ```
 npm install -g typescript
 npm install -g typings
 ```
 
-We are going VSCode as our IDE, and you can download it from  code.visualstudio.com. 
+We are going [Visual Studio Code](http://code.visualstudio.com/) for editing our project
 after you checkout this repository. Run the command below for install the dependencies
 
 ```
