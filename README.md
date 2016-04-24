@@ -17,7 +17,7 @@ npm install -g typescript
 npm install -g typings
 ```
 
-We are going [Visual Studio Code](http://code.visualstudio.com/) for editing our project
+We are going to use [Visual Studio Code](http://code.visualstudio.com/) for editing our project
 after you checkout this repository. Run the command below for install the dependencies
 
 ```
