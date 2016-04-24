@@ -1,6 +1,7 @@
 # Angular2-Jumpstart
 
-This sample is from the video on Youtube [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA) by Mosh Hamedi on Udemy.
+This sample is from Youtube [Angular 2 Tutorial for Beginners: Learn Angular 2 from Scratch](https://www.youtube.com/watch?v=_-CD_5YhJTA) by Mosh Hamedi.
+if you want to go deeper about Angular 2, I recommend to take the course [Angular 2 with TypeScript](https://www.udemy.com/angular-2-tutorial-for-beginners/learn/v4/overview) on Udemy.
 
 - Jumpstart - Quick understanding of how to build an App with Angular 2.
 - [101](https://github.com/dacho68/Angular2-101) - Property Binding, Class and Style Binding, Event Binding, Two way Binding.
@@ -9,7 +10,7 @@ This sample is from the video on Youtube [Angular 2 Tutorial for Beginners: Lear
 
 ## Setup the environment on Windows for running the samples
 - First install the Node at nodejs.org
-- Install typescript 
+- Install typescript globally. 
 
 ```
 npm install -g typescript
