@@ -18,7 +18,7 @@ export class AuthorsComponent{
     title: string = "The title of authors page";
     authors: string[];
     
-    constructor(courseSerice: CourseService){
-         this.authors = courseSerice.getAuthors();
+    constructor(courseService: CourseService){
+         this.authors = courseService.getAuthors();
     }
 }

@@ -25,7 +25,7 @@ export class CoursesComponent{
     courses;
     
     // the CourseService instance will be injected into this class.
-    constructor(courseSerice: CourseService){
-         this.courses = courseSerice.getCourses();
+    constructor(courseService: CourseService){
+         this.courses = courseService.getCourses();
     }
 }
