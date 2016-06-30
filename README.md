@@ -17,6 +17,11 @@ npm install -g typescript
 npm install -g typings
 ```
 
+you can update the npm to the latest version. Navigate in your shell to your node installation directory, eg C:\Program Files (x86)\nodejs
+```
+npm install npm
+```
+
 We are going to use [Visual Studio Code](http://code.visualstudio.com/) for editing our project
 after you checkout this repository. Run the command below for install the dependencies
 
