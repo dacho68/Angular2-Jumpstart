@@ -6,7 +6,8 @@ if you want to go deeper about Angular 2, I recommend to take the course [Angula
 - Jumpstart - Quick understanding of how to build an App with Angular 2.
 - [101](https://github.com/dacho68/Angular2-101) - Property Binding, Class and Style Binding, Event Binding, Two way Binding.
 - [102](https://github.com/dacho68/Angular2-102) - Component API in depth.
-- 103
+- [103](https://github.com/dacho68/Angular2-103) - Controlling Rendering of the HTML.
+- [104](https://github.com/dacho68/Angular2-104) - Forms and Validations.
 
 ## Setup the environment on Windows for running the samples
 - First instal [NodeJs](https://nodejs.org/en/)
