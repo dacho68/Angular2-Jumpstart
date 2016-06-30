@@ -42,5 +42,3 @@ As a C# developer, I find this video provides a good understanding of :
 - Basic binding concept.
 - Dependency Injection.
  
-
-
