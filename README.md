@@ -22,6 +22,8 @@ after you checkout this repository. Run the command below for install the depend
 
 ```
 npm install
+npm run typings install
+
 npm start
 ```
 

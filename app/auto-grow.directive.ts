@@ -3,7 +3,7 @@
 // ElementRef : reference to this hosted element 
 // Renderer : for modifying this element
 //
-import  { Directive,ElementRef, Renderer } from 'angular2/core'
+import  { Directive,ElementRef, Renderer } from '@angular/core'
 
 // a directive
 @Directive({
